@@ -1,0 +1,7 @@
+ Novo
+Processando 
+Pendente
+Solucionados 
+Fechados
+Excluidos
+
