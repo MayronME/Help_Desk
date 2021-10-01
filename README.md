@@ -23,11 +23,9 @@
 ![a](https://user-images.githubusercontent.com/84480805/135657414-9bdd67b0-2af8-45a7-8e8b-8ab6b31f1d23.PNG)
 ![a](https://user-images.githubusercontent.com/84480805/135657485-8334a0e0-048e-4524-a9d4-44623d075275.PNG)
 
-<p>Após ser feito o login valido é possível visualizar dois botões</p>
-</br></br>
+Após ser feito o login valido é possível visualizar dois botões
 ![a](https://user-images.githubusercontent.com/84480805/135657617-6a5613f3-c195-48df-a99c-894844bf2a16.PNG)
- 
- 
+
 <h3> Criar Ticket </h3> 
 <p>Feito para conseguir abrir chamados para a assistência</p>
 <h4>Formulario:</h4>
